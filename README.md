@@ -4,5 +4,8 @@
 
 This repository is a demonstration of the classic path-finding algorithm D*.
 
+The Script that runs the D* demo is in the following directory:
+*'D_Star_Demo/Search_based_Planning/Search_2D'*
+
 TO RUN:
 *python3 D_star.py*
