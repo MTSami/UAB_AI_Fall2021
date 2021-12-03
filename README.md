@@ -3,7 +3,7 @@
 
 
 This repository is a demonstration of the classic path-finding algorithm D* in partially known or dynamically changing environments.
-http://web.mit.edu/16.412j/www/html/papers/original_dstar_icra94.pdf  
+D*, paper link: http://web.mit.edu/16.412j/www/html/papers/original_dstar_icra94.pdf  
 
 
 The Script that runs the D* demo is in the following directory:
